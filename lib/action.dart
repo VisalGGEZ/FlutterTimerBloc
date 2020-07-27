@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -7,7 +5,7 @@ import 'package:timer_bloc_timer/bloc/timer_bloc.dart';
 import 'package:timer_bloc_timer/bloc/timer_state.dart';
 import 'package:timer_bloc_timer/bloc/timer_event.dart';
 
-class Actions extends StatelessWidget {
+class ActionsTimer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Row(
@@ -59,8 +57,8 @@ class Actions extends StatelessWidget {
     if (currentState is TimerRunComplete) {
       return [
         FloatingActionButton(
-          child: Icon(Icons.replay),
-          onPressed: () => timerBloc.add(TimerReset()),
+          child: Icon(Icons.play_arrow),
+          onPressed: () => timerBloc.add(TimerStarted(duration: currentState.duration)),
         )
       ];
     }

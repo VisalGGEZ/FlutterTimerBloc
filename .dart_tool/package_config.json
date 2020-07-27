@@ -3,67 +3,67 @@
   "packages": [
     {
       "name": "async",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.4.2",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/async-2.4.1",
       "packageUri": "lib/",
       "languageVersion": "2.2"
     },
     {
       "name": "bloc",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/bloc-5.0.1",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/bloc-5.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.6"
     },
     {
       "name": "boolean_selector",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.0.0",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.4"
     },
     {
       "name": "characters",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.1.0-nullsafety",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/characters-1.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.9"
+      "languageVersion": "2.6"
     },
     {
       "name": "charcode",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.3",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.3",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
     {
       "name": "clock",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/clock-1.0.1",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/clock-1.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
     {
       "name": "collection",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0-nullsafety",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/collection-1.14.13",
       "packageUri": "lib/",
-      "languageVersion": "2.9"
+      "languageVersion": "2.3"
     },
     {
       "name": "cubit",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/cubit-0.1.2",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/cubit-0.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-0.1.3",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-0.1.3",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
     {
       "name": "equatable",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/equatable-1.2.3",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/equatable-1.2.3",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
     {
       "name": "fake_async",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.1.0",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/fake_async-1.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.2"
     },
@@ -75,13 +75,13 @@
     },
     {
       "name": "flutter_bloc",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_bloc-5.0.1",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/flutter_bloc-5.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.6"
     },
     {
       "name": "flutter_cubit",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cubit-0.1.1",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/flutter_cubit-0.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     },
@@ -93,31 +93,31 @@
     },
     {
       "name": "matcher",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.8",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.8",
       "packageUri": "lib/",
       "languageVersion": "2.4"
     },
     {
       "name": "meta",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.3.0-nullsafety",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/meta-1.1.8",
       "packageUri": "lib/",
-      "languageVersion": "2.9"
+      "languageVersion": "1.12"
     },
     {
       "name": "nested",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/nested-0.0.4",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/nested-0.0.4",
       "packageUri": "lib/",
       "languageVersion": "2.2"
     },
     {
       "name": "path",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.7.0",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/path-1.7.0",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
     {
       "name": "provider",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/provider-4.3.1",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/provider-4.3.1",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     },
@@ -129,55 +129,55 @@
     },
     {
       "name": "source_span",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.7.0",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/source_span-1.7.0",
       "packageUri": "lib/",
       "languageVersion": "2.6"
     },
     {
       "name": "stack_trace",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.5",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.9.3",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "1.23"
     },
     {
       "name": "stream_channel",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.0.0",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
     {
       "name": "string_scanner",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.0.5",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.0.5",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
     {
       "name": "term_glyph",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.1.0",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.1.0",
       "packageUri": "lib/",
       "languageVersion": "1.8"
     },
     {
       "name": "test_api",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.2.17",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/test_api-0.2.17",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     },
     {
       "name": "typed_data",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0-nullsafety",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/typed_data-1.2.0",
       "packageUri": "lib/",
-      "languageVersion": "2.9"
+      "languageVersion": "2.4"
     },
     {
       "name": "vector_math",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.0-nullsafety",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8",
       "packageUri": "lib/",
-      "languageVersion": "2.9"
+      "languageVersion": "2.0"
     },
     {
       "name": "wave",
-      "rootUri": "file:///Users/suosvisal/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/wave-0.0.8",
+      "rootUri": "file:///Users/suosvisal/.pub-cache/hosted/pub.dartlang.org/wave-0.0.8",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
@@ -188,7 +188,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-07-27T08:20:13.931930Z",
+  "generated": "2020-07-27T15:31:21.934947Z",
   "generator": "pub",
-  "generatorVersion": "2.9.0-21.0.dev.flutter-20bf2fcf56"
+  "generatorVersion": "2.9.0-20.0.dev.flutter-69aba23371"
 }
